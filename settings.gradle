@@ -1,0 +1,4 @@
+rootProject.name = 'local'
+include 'de.deloitte.kosyfa'
+include 'library'
+
