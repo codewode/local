@@ -2,7 +2,14 @@ package com.local.library;
 
 public class Application {
     public static void main(String[] args) {
-        System.out.print("Hello world - Feature 1");
-        System.out.print("Hello world - Feature bug 1a");
+
+            try {
+               return;
+
+            } finally {
+                System.out.println("Saying hello times " );
+            }
+
+
     }
 }
